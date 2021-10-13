@@ -1,6 +1,0 @@
----
-author: henning
----
-
-asfasdf
-asfasdf
